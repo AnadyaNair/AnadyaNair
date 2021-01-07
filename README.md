@@ -9,7 +9,7 @@
 
 * Want to see my portfolio ? Click on the  **[🎁](anadyanair.whjr.site)**
 
-<img src = "https://github-readme-stats.vercel.app/api?username=AnadyaNair">
+<img src = "https://github-readme-stats.vercel.app/api?username=AnadyaNair&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 * You can see some of my favourite works of all time here 👇🏻
 <!--
