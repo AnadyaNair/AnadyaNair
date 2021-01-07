@@ -1,4 +1,4 @@
-## Hi! This is Anadya Nair🌈 Thank you for making your way to my profile!
+# Hi! This is Anadya Nair 🇮🇳 Thank you for making your way to my profile!
 > **This is Anadya Nair,I am an Indian.
 > 🌱 I’m currently learning more in JavaScript.
 > I love to code and learn, I love computer science and Art. As of now, I am learning JavaScript, but I can also write other languages as well.
