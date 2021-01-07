@@ -1,23 +1,8 @@
-### Hi! This is Anadya Nair🌈 Thank you for viewing my profile! See my most favourite repositories here 👇🏻
-### 🔭 I’m currently working on my website, and building a discord bot.
-### 🌱 I’m currently learning JavaScript.
-### 👯 I’m looking to collaborate on nothing.
-### 🤔 I’m looking for help with coding.
-### 💬 Ask me about Marvel Cinematic Universe.
-### 📫 How to reach me: ...
-### 😄 Pronouns: N/A
-### ⚡ Fun fact: This README.md can be seen on top, when you go to my profile!
+### Hi! This is Anadya Nair🌈 Thank you for making your way to my profile!
+# This is Anadya Nair,I am an Indian. My age is currently 12 and I'm in secondary school; (standard eighth).
+# 🌱 I’m currently learning more in JavaScript.
+# I love to code and learn, I love computer science and Art. As of now, I am learning JavaScript, but I can also write other languages as well.
+* I learned coding with the help of teachers from https://code.whitehatjr.com and by watching many coding related YouTube videos.
+> I am mainly a self taught programmer, and am doing programming since the beggining of 2020. I have learned a lot in this time period.
 <!--
 **AnadyaNair/AnadyaNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-###- 🔭 I’m currently working on my website, and building a discord bot.
-###- 🌱 I’m currently learning JavaScript.
-###- 👯 I’m looking to collaborate on nothing.
-###- 🤔 I’m looking for help with coding.
-###- 💬 Ask me about Marvel Cinematic Universe.
-###- 📫 How to reach me: ...
-###- 😄 Pronouns: N/A
-###- ⚡ Fun fact: This README.md can be seen on top, when you go to my profile!
--->
