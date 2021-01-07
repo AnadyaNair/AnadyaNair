@@ -7,7 +7,7 @@
 
 > I am a gamer too, soon going to start a YouTube channel with the name of *anadyanaire* for a lot of stuff. My website is currently under development. And I'm also building a discord bot.
 
-* Want to see my portfolio ? Click on the  **[🎁](anadyanair.whjr.site)**
+* Want to see my portfolio ? Click on the  **[🎁](htpps://anadyanair.whjr.site)**
 
 <img src = "https://github-readme-stats.vercel.app/api?username=AnadyaNair&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
