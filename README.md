@@ -1,5 +1,4 @@
 # At the official github page of Anadya Nair! 🌈
-<img src = "https://drive.google.com/file/d/18Wn_jA0Hb1OWywuqobvCAGYvypxCHoej/view?usp=sharing">
 > **This is Anadya Nair,I am an Indian. <br>
 > 🌱 I’m currently learning more in JavaScript.
 > I love to code and learn, I love computer science and Art. As of now, I am learning JavaScript, but I can also write other languages as well. <br>
@@ -13,6 +12,8 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=AnadyaNair&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <img src = "https://img.shields.io/github/followers/AnadyaNair?style=social"> <img src = "https://img.shields.io/badge/Official%20Anadya%20Nair%20github%20page-%E2%9C%94-green">
+
+```Thank you for making your way here! I'm sure you liked this!```
 
 * You can see some of my favourite works of all time here 👇🏻
 <!--
