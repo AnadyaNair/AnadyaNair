@@ -1,5 +1,5 @@
 # At the official github page of Anadya Nair! 🌈
-> **This is Anadya Nair. I am an Indian. <br>
+> **This is Anadya Nair. I am an Indian. 🇮🇳 <br>
 > 🌱 I’m currently learning more in JavaScript.
 > I love to code and learn, I love computer science and Art. As of now, I am learning JavaScript, but I can also write other languages as well. 
 <br> <br>
