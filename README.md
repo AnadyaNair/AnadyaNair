@@ -1,5 +1,6 @@
 # At the official github page of Anadya Nair! 🌈
 <img src = "https://media1.tenor.com/images/0bb0606644e55d493f17ebb492d674b9/tenor.gif?itemid=7382821">
+
 > **This is Anadya Nair. I am an Indian. 🇮🇳 <br>
 > 🌱 I’m currently learning more in JavaScript.
 > I love to code and learn, I love computer science and Art. As of now, I am learning JavaScript, but I can also write other languages as well. 
