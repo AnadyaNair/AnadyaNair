@@ -8,7 +8,10 @@
 > I learned coding with the help of teachers from **https://code.whitehatjr.com** and by watching many coding related YouTube videos.
 > I am mainly a self taught programmer, and am doing programming since the beggining of 2020. I have learned a lot in this time period.**
 
-> **I am a gamer too, soon going to start a YouTube channel with the name of *anadyanaire* for a lot of stuff. My website is currently under development. And I'm also building a discord bot.**
+> **I am a gamer too, soon going to start a YouTube channel with the name of *anadyanaire* for a lot of stuff. My website is currently under development. And I'm also building a discord bot:**
+<img src = "https://cdn.discordapp.com/attachments/751674561321369723/775614317218889738/Screenshot_2020-11-10_122348.jpg">
+
+> This is a short glimpse of my Discord bot. This image was taken a few motnhs ago, when it was the first stage of my bot. This is a private server bot.
 
 * Pronouns - he/him
 
