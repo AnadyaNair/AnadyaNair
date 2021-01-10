@@ -13,7 +13,7 @@
 > **I am a gamer too, soon going to start a YouTube channel with the name of *anadyanaire* for a lot of stuff. My website is currently under development. And I'm also building a discord bot:**
 <img src = "https://cdn.discordapp.com/attachments/751674561321369723/775614317218889738/Screenshot_2020-11-10_122348.jpg">
 
-> This is a short glimpse of my Discord bot. This image was taken a few months ago, when it was the first stage of my bot. This is a private server bot.
+> This is a short glimpse of my Discord bot. This image was taken a few months ago, when it was the first stage of my bot. This is a private server bot. <hr>
 
 * Pronouns - he/him
 
@@ -26,6 +26,6 @@
 <img src = "https://img.shields.io/github/followers/AnadyaNair?style=social"> <img src = "https://img.shields.io/badge/Official%20Anadya%20Nair%20github%20page-%E2%9C%94-green">
 
 * Also visit my friends' github pages : [@123nis](https://github.com/123nis) , [@ShlokRajpurohit](https://github.com/ShlokRajpurohit)
-* You can see some of my favourite works of all time here 👇🏻
+* You can see some of my favourite works of all time here 👇🏻 <hr>
 <!--
 **AnadyaNair/AnadyaNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
