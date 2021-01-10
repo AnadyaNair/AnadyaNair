@@ -8,7 +8,7 @@
 > I learned coding with the help of teachers from **https://code.whitehatjr.com** and by watching many coding related YouTube videos.
 > I am mainly a self taught programmer, and am doing programming since the beggining of 2020. I have learned a lot in this time period.**
 
-<img src = "https://media1.tenor.com/images/0bb0606644e55d493f17ebb492d674b9/tenor.gif?itemid=7382821">
+<img src = "https://media1.tenor.com/images/0bb0606644e55d493f17ebb492d674b9/tenor.gif?itemid=7382821" >  <img src = "https://media1.tenor.com/images/506c6ea099f48176a1e416c93927df2c/tenor.gif?itemid=16372142" >
 
 > **I am a gamer too, soon going to start a YouTube channel with the name of *anadyanaire* for a lot of stuff. My website is currently under development. And I'm also building a discord bot:**
 <img src = "https://cdn.discordapp.com/attachments/751674561321369723/775614317218889738/Screenshot_2020-11-10_122348.jpg">
