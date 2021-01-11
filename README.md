@@ -10,6 +10,7 @@
 <img src = "https://media1.tenor.com/images/0bb0606644e55d493f17ebb492d674b9/tenor.gif?itemid=7382821" >
 
 * My favourite programming languages : JavaScript, Python
+* Joined Github on September 23 2020
 <hr>
 
 > **I am a gamer too, soon going to start a YouTube channel with the name of *anadyanaire* for a lot of stuff. My website is currently under development. And I'm also building a discord bot:**
