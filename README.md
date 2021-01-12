@@ -12,6 +12,8 @@
 * My favourite programming languages : JavaScript, Python
 * Joined Github on September 23 2020
 * Working on the [Recosta Bot](https://github.com/AnadyaNair/Anadya-s-AI-Recosta-Bot) since a year. Three versions made. Issues occuring. Bot - Under Development.
+* I like web development.
+* I like making auto programmes like bots. 🌟
 <hr>
 
 > **I am a gamer too, soon going to start a YouTube channel with the name of *anadyanaire* for a lot of stuff. My website is currently under development. And I'm also building a discord bot:**
