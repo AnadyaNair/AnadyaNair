@@ -1,5 +1,5 @@
 # At the official github page of Anadya Nair! 😃🌈
-<img src = "https://github.com/AnadyaNair/AnadyaNair/blob/main/github-profile-banner.jpg">
+<img src = "https://github.com/AnadyaNair/AnadyaNair/blob/main/github-profile-banner.jpg" alt="loading...">
 
 ## Hi! I'm Anadya. I am an Indian. 🇮🇳 <br>
 > **🌱I am a student and I’m currently learning more in JavaScript.
