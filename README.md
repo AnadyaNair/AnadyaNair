@@ -10,7 +10,7 @@
 <img src = "https://media1.tenor.com/images/0bb0606644e55d493f17ebb492d674b9/tenor.gif?itemid=7382821" >
 
 * My favourite programming languages : JavaScript, Python
-* Joined Github on September 23 2020
+* Joined Github on September 13 2020
 * Working on the [Recosta Bot](https://github.com/AnadyaNair/Anadya-s-AI-Recosta-Bot) since almost 1.5 years... Three versions made. Issues occuring. Bot - Under Development.
 * I like web development.
 * I like making auto programmes like bots. 🌟
