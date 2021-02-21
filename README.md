@@ -5,13 +5,13 @@
 > **🌱I am a student and I’m currently learning more in JavaScript.
 > I love to code and learn, I love computer science and Art. As of now, I am learning JavaScript, but I can also write other languages as well. <br>
 > I learned coding with the help of teachers from **https://code.whitehatjr.com** and by watching many coding related YouTube videos.
-> I am mainly a self taught programmer, and am doing programming since the beggining of 2020. I have learned a lot in this time period.**
+> I am mainly a self taught programmer, and am doing programming since the late 2019. I have learned a lot in this time period.**
 
 <img src = "https://media1.tenor.com/images/0bb0606644e55d493f17ebb492d674b9/tenor.gif?itemid=7382821" >
 
 * My favourite programming languages : JavaScript, Python
 * Joined Github on September 23 2020
-* Working on the [Recosta Bot](https://github.com/AnadyaNair/Anadya-s-AI-Recosta-Bot) since a year. Three versions made. Issues occuring. Bot - Under Development.
+* Working on the [Recosta Bot](https://github.com/AnadyaNair/Anadya-s-AI-Recosta-Bot) since almost 1.5 years... Three versions made. Issues occuring. Bot - Under Development.
 * I like web development.
 * I like making auto programmes like bots. 🌟
 * Working on my website.
