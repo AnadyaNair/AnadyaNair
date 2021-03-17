@@ -1,7 +1,7 @@
-# At the official github page of Anadya Nair! 😃🌈
-<img src = "https://github.com/AnadyaNair/AnadyaNair/blob/main/github-profile-banner.jpg" alt="loading...">
+# Anadya Nair official github page!
+<!-- <img src = "https://github.com/AnadyaNair/AnadyaNair/blob/main/github-profile-banner.jpg" alt="loading..."> -->
 
-## Hi! I'm Anadya. I am an Indian. 🇮🇳 <br>
+### Hi! I'm Anadya. I am an Indian 🇮🇳. <br>
 > **🌱I am a student and I’m currently learning more in JavaScript.
 > I love to code and learn, I love computer science and Art. As of now, I am learning JavaScript, but I can also write other languages as well. <br>
 > I learned coding with the help of teachers from **https://code.whitehatjr.com** and by watching many coding related YouTube videos.
