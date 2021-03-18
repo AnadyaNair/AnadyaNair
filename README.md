@@ -1,17 +1,17 @@
 # Anadya Nair 🚀
+<img src = "https://raw.githubusercontent.com/AnadyaNair/AnadyaNair/9d6da58c5e2bb5f1a4caa7fa548d4b68e080da1d/profilesvg.svg">
 <!-- <img src = "https://github.com/AnadyaNair/AnadyaNair/blob/main/github-profile-banner.jpg" alt="loading..."> -->
 
 
 * My favourite programming languages : JavaScript, Python
-* Joined Github on September 13 2020
-* Working on the [Recosta Bot](https://github.com/AnadyaNair/Anadya-s-AI-Recosta-Bot) since almost 1.5 years... Three versions made. Issues occuring. Bot - Under Development.
-* I like web development.
-* I like making auto programmes like bots. 🌟
-* Working on my website.
+ * Joined Github on September 13 2020
+ * Working on the [Recosta Bot](https://github.com/AnadyaNair/Anadya-s-AI-Recosta-Bot) since almost 1.5 years... Three versions made. Issues occuring. Bot - Under Development.
+ * I like web development.
+ * I like making auto programmes like bots. 🌟
+ * Working on my website.
 <hr>
-* Pronouns - he/him
-* Check out my organization 👉🏻 [@anadyanaire](https://github.com/anadyanaire)
-* Want to see my portfolio ? Click here => [Portfolio🎉](https://anadyanair.whjr.site)
+ Pronouns - he/him <br>
+ Want to see my portfolio ? Click here => [Portfolio🎉](https://anadyanair.whjr.site)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=AnadyaNair&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
