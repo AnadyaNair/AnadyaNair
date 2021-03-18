@@ -9,7 +9,7 @@
  * I like web development.
  * I like making auto programmes like bots. 🌟
  * Working on my website.
-<hr>
+<hr style="border:2px solid tomato">
  Pronouns - he/him <br>
  Want to see my portfolio ? Click here => https://anadyanair.whjr.site
 
