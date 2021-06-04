@@ -11,7 +11,7 @@
 - [x] I work on my own, basically timepass.
 - [x] Pronouns - he/him
  
- #### 🔗My website, portfolio ➡ <a href = "https://anadyanair.netlify.app" target="_blank">https://anadyanair.netlify.app</a>
+ #### 🔗My website, portfolio ➡ https://anadyanair.netlify.app
  
 <hr>
 
