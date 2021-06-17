@@ -1,4 +1,5 @@
 <h1 align="center">Anadya Nair 🚀</h1>
+<img align="center" src="https://github.com/AnadyaNair/AnadyaNair/blob/main/GITHUB%20anadya%20nair%20cover%20picture.png?raw=true">
 <!-- <img src="https://raw.githubusercontent.com/AnadyaNair/AnadyaNair/d3938732e8f31dab9e29fe449f5d56c4c8e05568/profilesvg.svg"> -->
 <!-- <img src = "https://github.com/AnadyaNair/AnadyaNair/blob/main/github-profile-banner.jpg" alt="loading..."> -->
 
