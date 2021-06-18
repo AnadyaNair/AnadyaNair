@@ -1,19 +1,18 @@
 <img align="center" src="https://github.com/AnadyaNair/AnadyaNair/blob/main/GITHUB%20anadya%20nair%20cover%20picture.png?raw=true">
 
-### 📕Information:
+## 📕 Information:
 
-🌳 Learnt programming languages : JavaScript, Python, HTML, CSS. <br>
-🌳 Joined Github on September 13 2020. <br>
-🌳 I like to do web development work. <br>
-🌳 I like to make automatic programmes such as bots🌟. <br>
-🌳 I work on my own, basically timepass. <br>
-🌳 Pronouns - he/him. <br>
- 
- #### 🔗My website, portfolio 👉🏼 https://anadyanair.netlify.app
+### 🌳 Learnt programming languages : JavaScript, Python, HTML, CSS. <br>
+### 💡 Joined Github on September 13 2020. <br>
+### 🌟 I like to do web development work. <br>
+### 🌟 I like to make automatic programmes such as bots. <br>
+### 🐾 I work on my own, basically timepass. <br>
+### 👦 Pronouns - he/him. <br>
+### 🔗 My website, portfolio 👉🏼 https://anadyanair.netlify.app
  
 <hr>
 
-### 🔢Some of my Github statistics to view: 
+## 🔢 Some of my Github statistics to view: 
 
 <br>
  
