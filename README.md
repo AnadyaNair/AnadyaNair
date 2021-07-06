@@ -1,4 +1,3 @@
-# Greetings👋! I am Anadya Nair. A student and a developer, (he/him).🌴
 <img align="center" src="https://github.com/AnadyaNair/AnadyaNair/blob/main/GITHUB%20anadya%20nair%20cover%20picture.png?raw=true">
 
 ### Hey, I am Anadya, a student and a passionate developer. Taking interests in UI designs, web development, cool Python programs while coding!
