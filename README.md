@@ -1,10 +1,13 @@
+## Greetings👋! I am Anadya Nair. A student and a developer, (he/him).🌴
 <img align="center" src="https://github.com/AnadyaNair/AnadyaNair/blob/main/GITHUB%20anadya%20nair%20cover%20picture.png?raw=true">
 
-## Some of my Github statistics to view:
+#### Hey, I am Anadya, a student and a passionate developer. Taking interests in UI designs, web development, cool Python programs while coding!
+
+<!-- ## Some of my Github statistics to view:-
 <br>
 <p align="center">
 <img align="center" width="700" src = "https://github-readme-stats.vercel.app/api?username=AnadyaNair&show_icons=true&theme=default">
-</p>
+</p> -->
 
 ## 👇🏼 You can see some of my favourite works of all time here .
 <!--
