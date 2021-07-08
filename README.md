@@ -1,6 +1,6 @@
+<h1 align="center">Good to see you watching my profile, every view counts👋!</h1>
 <img align="center" src="https://github.com/AnadyaNair/AnadyaNair/blob/main/GITHUB%20anadya%20nair%20cover%20picture.png?raw=true">
 
-# Good to see you watching my profile, every view counts👋!
 ### Hey, I am Anadya, a student and a passionate developer. Taking interests in UI designs, web development, cool Python programs while coding!
 
 ## Some of my Github statistics to view:-
