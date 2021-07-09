@@ -4,7 +4,7 @@ Hello!, I am Anadya, a student and a passionate developer, he/him.
 <br>
 Taking interests in UI designs, web development, cool Python programs while coding.
 <br>
-# Here's a summary of my GitHub stats:-
+# A brief summary of my Github stats:-
 <br>
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=AnadyaNair&show_icons=true&theme=default">
 
