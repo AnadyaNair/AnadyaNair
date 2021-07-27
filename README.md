@@ -5,6 +5,12 @@
 </p>
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=AnadyaNair&show_icons=true&title_color=f9f9f9&text_color=f9f9f9&icon_color=f9f9f9&bg_color=3944F7"> -->
+<!-- 
+<details open>
+<summary>Want to ruin the surprise?</summary>
+<br>
+Well, you asked for it!
+</details> -->
 
 <!--
 **AnadyaNair/AnadyaNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
