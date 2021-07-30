@@ -10,7 +10,8 @@ If you don't know about The Developer Capsule, you can read about the same in [t
 # Currently I'm looking upto 👇:
 1. Learning APIs 🐧.
 2. Learning React ⚛.
-3. Developers to join The Developer Capsule 🚀.
+3. Learning electron ⚡.
+4. Developers to join The Developer Capsule 🚀.
 
 # GitHub stats 📊
 
