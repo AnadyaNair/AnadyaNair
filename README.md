@@ -1,11 +1,11 @@
 <img src="https://github.com/AnadyaNair/AnadyaNair/blob/7132cbf287c1d9699fc5e8f0f33133d640394b6b/dark%20theme%20new%20detailed%20banner.png"></img>
 
  # Hello, everyone👋!
- I am Anadya. A student and a developer from India. Taking interests in web development and cool python programs while coding.
+ I am Anadya. A student and a developer, (he/him) from India. Taking interests in web development and cool python programs while coding.
  
  # GitHub organization 🏢
 If you're a developer, [join](https://github.com/The-Developer-Capsule/Join) my fresh and newly made GitHub organization named @[The Developer Capsule](https://github.com/The-Developer-Capsule) where developers can collaborate.
-If you don't know about The Developer Capsule, you can read about the same in [this repository](https://github.com/The-Developer-Capsule/Introduction)
+If you don't know about The Developer Capsule, you can read about the same in [this repository](https://github.com/The-Developer-Capsule/Introduction).
 
 # Currently I'm looking upto 👇:
 1. Learning APIs 🐧.
