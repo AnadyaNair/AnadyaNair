@@ -11,7 +11,8 @@ If you don't know about The Developer Capsule, you can read about the same in [t
 1. Learning APIs 🐧.
 2. Learning React ⚛.
 3. Learning electron ⚡.
-4. Developers to join The Developer Capsule 🚀.
+4. Learning swift 🍦.
+5. Developers to join The Developer Capsule 🚀.
 
 # GitHub stats 📊
 
