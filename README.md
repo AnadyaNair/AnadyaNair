@@ -1,6 +1,6 @@
 <img src="https://github.com/AnadyaNair/AnadyaNair/blob/7132cbf287c1d9699fc5e8f0f33133d640394b6b/dark%20theme%20new%20detailed%20banner.png"></img>
 
- # Hello, everyone👋!
+ # Greetings, everyone👋!
  I am Anadya. A student and a developer, (he/him) from India. Taking interests in web development and cool python programs while coding.
 
 |What am I currently looking upto?|<ol><li>Learning APIs 🐧.</li> <li>Learning React ⚛.</li> <li>Developers to join The Developer Capsule 🚀.</li></ol>|
