@@ -11,6 +11,10 @@
 
 <img src ="https://github-readme-stats.vercel.app/api?username=AnadyaNair&show_icons=true&theme=default"></img>
 
+# Contribution Graph
+
+<img src="https://activity-graph.herokuapp.com/graph?username=AnadyaNair&theme=xcode"></img>
+
 <!--
 **AnadyaNair/AnadyaNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 */
