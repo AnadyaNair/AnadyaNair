@@ -12,7 +12,9 @@ I am Anadya. A student and a developer, (he/him) from India. Taking interests in
 
 <hr>
 
-![Metrics](https://metrics.lecoq.io/AnadyaNair?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata)
+![Metrics](https://github.com/AnadyaNair/AnadyaNair/blob/main/github-metrics.svg)
+
+<!-- ![Metrics](https://metrics.lecoq.io/AnadyaNair?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata) -->
 
 # GitHub stats 📊
 
