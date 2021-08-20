@@ -12,6 +12,8 @@ I am Anadya. A student and a developer, (he/him) from India. Taking interests in
 
 <hr>
 
+![Metrics](https://metrics.lecoq.io/AnadyaNair?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata)
+
 # GitHub stats 📊
 
 <img src ="https://github-readme-stats.vercel.app/api?username=AnadyaNair&show_icons=true&theme=default"></img>
