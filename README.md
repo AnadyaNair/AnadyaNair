@@ -22,6 +22,9 @@ I am Anadya. A student and a developer, (he/him) from India. Taking interests in
 
 <img src="https://activity-graph.herokuapp.com/graph?username=AnadyaNair&theme=xcode"></img>
 
+# A snake eating my GitHub contributions!
+
+<img src="https://github.com/AnadyaNair/AnadyaNair/raw/output/github-contribution-grid-snake.svg"></img>
 <!--
 **AnadyaNair/AnadyaNair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 */
