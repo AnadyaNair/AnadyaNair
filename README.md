@@ -18,7 +18,7 @@ A student and a developer, (he/him) from India. Taking interests in web developm
 <img src="https://activity-graph.herokuapp.com/graph?username=AnadyaNair&theme=xcode"></img>
 </details>
 
-<details open>
+<details>
 <summary>Cool metrics and snake graph generated using GitHub actions</summary>
 <br>
 <img src="https://raw.githubusercontent.com/AnadyaNair/AnadyaNair/57bfde07bc70dba846d0677ac411e21e1b1ff248/github-metrics.svg"></img>
