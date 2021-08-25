@@ -25,3 +25,6 @@ A student and a developer, (he/him) from India. Taking interests in web developm
 <br> <br>
 <img src="https://github.com/AnadyaNair/AnadyaNair/raw/output/github-contribution-grid-snake.svg"></img>
 </details>
+
+### Jokes for humourous visits, hope you like them.
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
