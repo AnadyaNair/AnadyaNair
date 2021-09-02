@@ -21,7 +21,7 @@ A student and a developer, (he/him) from India. Taking interests in web developm
 <details>
 <summary>Cool metrics and snake graph generated using GitHub actions</summary>
 <br>
-<img src="https://raw.githubusercontent.com/AnadyaNair/AnadyaNair/57bfde07bc70dba846d0677ac411e21e1b1ff248/github-metrics.svg"></img>
+<img src="https://github.com/AnadyaNair/AnadyaNair/blob/main/github-metrics.svg"></img>
 <br> <br>
 <img src="https://github.com/AnadyaNair/AnadyaNair/raw/output/github-contribution-grid-snake.svg"></img>
 </details>
