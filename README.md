@@ -1,14 +1,24 @@
-<img src="https://raw.githubusercontent.com/AnadyaNair/AnadyaNair/main/dark%20theme%20new%20detailed%20banner.png"></img>
+<img src="Anadya Banner.png"></img>
 
-### Hello👋!
+## Hello👋!
 
 Greetings! I am Anadya Nair.
-A student and a developer, (he/him) from India. Taking interests in web development and cool python programs while coding.
+A student and a developer, (he/him) from India.
+Taking interests in web development and cool python programs while coding.
 
-### Bulletin📌!
-|I am keen to learn these right now|Join my GitHub organization| A recommended repository|
-|:---:|:---:|:---:|
-| <ol><li>Learning Reactjs.</li> <li>Learning Tailwind CSS</li></ol> |If you're a developer, [join](https://github.com/TheDeveloperCapsule/Join) my fresh and newly made GitHub organization named @[TheDeveloperCapsule](https://github.com/TheDeveloperCapsule) where developers can collaborate an contribute.|[![AnadyaNair/Learning-Web-Backbone](https://github-readme-stats.vercel.app/api/pin/?username=AnadyaNair&repo=Learning-Web-Backbone)](https://github.com/AnadyaNair/Learning-Web-Backbone)<br> If you're a beginner web developer, I've made a special repository where you can access free content related to learning html! |
+## TDC 🚀
+The Developer Capsule is a welcoming GitHub organization for developers to collaborate on. The Developer Capsule is usually abbreviated as TDC.
+
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Introduction)](https://github.com/TheDeveloperCapsule/Introduction)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Join)](https://github.com/TheDeveloperCapsule/Join)|
+|---|---|
+
+## Bulletin📌
+
+|Currently learning|Recommended Repo|
+|:---:|:---:|
+|<ol><li>React JS⚛</li> <li>Tailwind CSS🌊</li></ol>|[![AnadyaNair/Learning-Web-Backbone](https://github-readme-stats.vercel.app/api/pin/?username=AnadyaNair&repo=Learning-Web-Backbone)](https://github.com/AnadyaNair/Learning-Web-Backbone)<br> If you're a beginner web developer, I've made a special repository where you can access free content related to learning html!
+
+## More⚡
 
 <details>
 <summary>Stats and contribution graph 🎓</summary>
