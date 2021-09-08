@@ -9,14 +9,14 @@ Taking interests in web development and cool python programs while coding.
 ## TDC 🚀
 The Developer Capsule is a welcoming GitHub organization for developers to collaborate on. The Developer Capsule is usually abbreviated as TDC.
 
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Introduction)](https://github.com/TheDeveloperCapsule/Introduction)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Join)](https://github.com/TheDeveloperCapsule/Join)|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Introduction&theme=dark)](https://github.com/TheDeveloperCapsule/Introduction)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Join&theme=dark)](https://github.com/TheDeveloperCapsule/Join)|
 |---|---|
 
 ## Bulletin📌
 
 |Currently learning|Recommended Repo|
 |:---:|:---:|
-|<ol><li>React JS⚛</li> <li>Tailwind CSS🌊</li></ol>|[![AnadyaNair/Learning-Web-Backbone](https://github-readme-stats.vercel.app/api/pin/?username=AnadyaNair&repo=Learning-Web-Backbone)](https://github.com/AnadyaNair/Learning-Web-Backbone)<br> If you're a beginner web developer, I've made a special repository where you can access free content related to learning html!
+|<ol><li>React JS⚛</li> <li>Tailwind CSS🌊</li></ol>|[![AnadyaNair/Learning-Web-Backbone](https://github-readme-stats.vercel.app/api/pin/?username=AnadyaNair&repo=Learning-Web-Backbone&theme=dark)](https://github.com/AnadyaNair/Learning-Web-Backbone)|
 
 ## More⚡
 
