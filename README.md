@@ -12,11 +12,8 @@ The Developer Capsule is a welcoming GitHub organization for developers to colla
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Introduction&theme=dark)](https://github.com/TheDeveloperCapsule/Introduction)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Join&theme=dark)](https://github.com/TheDeveloperCapsule/Join)|
 |---|---|
 
-## Bulletin📌
-
-|Currently learning|Recommended Repo|
-|:---:|:---:|
-|<ol><li>React JS⚛</li> <li>Tailwind CSS🌊</li></ol>|[![AnadyaNair/Learning-Web-Backbone](https://github-readme-stats.vercel.app/api/pin/?username=AnadyaNair&repo=Learning-Web-Backbone&theme=dark)](https://github.com/AnadyaNair/Learning-Web-Backbone)|
+## Recommended repository
+[![AnadyaNair/Learning-Web-Backbone](https://github-readme-stats.vercel.app/api/pin/?username=AnadyaNair&repo=Learning-Web-Backbone&theme=dark)](https://github.com/AnadyaNair/Learning-Web-Backbone)
 
 ## More⚡
 
