@@ -7,13 +7,9 @@ A student and a developer, (he/him) from India.
 Taking interests in web development and cool python programs while coding.
 
 ## TDC 🚀
-The Developer Capsule is a welcoming GitHub organization for developers to collaborate on. The Developer Capsule is usually abbreviated as TDC.
-
+Meet The Developer Capsule, a free to join organization for developers to collaborate on.
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Introduction&theme=dark)](https://github.com/TheDeveloperCapsule/Introduction)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Join&theme=dark)](https://github.com/TheDeveloperCapsule/Join)|
 |---|---|
-
-## Recommended repository
-[![AnadyaNair/Learning-Web-Backbone](https://github-readme-stats.vercel.app/api/pin/?username=AnadyaNair&repo=Learning-Web-Backbone&theme=dark)](https://github.com/AnadyaNair/Learning-Web-Backbone)
 
 ## More⚡
 
