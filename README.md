@@ -4,13 +4,13 @@
 
 Greetings! I am Anadya Nair.
 A student and a developer, (he/him) from India.
-Taking interests in web development and cool python programs while coding.
-
+Taking interests in web development and cool programs while coding.
+<!-- 
 ## TDC 🚀
 Meet The Developer Capsule, a free to join organization for developers to collaborate on.
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Introduction&theme=dark)](https://github.com/TheDeveloperCapsule/Introduction)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDeveloperCapsule&repo=Join&theme=dark)](https://github.com/TheDeveloperCapsule/Join)|
 |---|---|
-
+ -->
 ## More⚡
 
 <details>
@@ -22,7 +22,7 @@ Meet The Developer Capsule, a free to join organization for developers to collab
 </details>
 
 <details>
-<summary>Cool metrics and snake graph generated using GitHub actions</summary>
+<summary>Cool metrics and snake graph generated using GitHub actions 🟩</summary>
 <br>
 <img src="https://github.com/AnadyaNair/AnadyaNair/blob/main/github-metrics.svg"></img>
 <br> <br>
@@ -30,7 +30,7 @@ Meet The Developer Capsule, a free to join organization for developers to collab
 </details>
 
 <details>
-<summary>Jokes for humourous visits, hope you like them.</summary>
+<summary>Jokes for humourous visits, hope you like them 😂</summary>
 <br>
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" /> 
 </details>
