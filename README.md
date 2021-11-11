@@ -1,4 +1,4 @@
-<img src="Anadya Banner.png"></img>
+<img src="AnadyaNair Banner.png"></img>
 
 ## Hello!
 Greetings! I am Anadya Nair. A student and a developer, (he/him) from India. I make interactive applications, which you can easily use.
