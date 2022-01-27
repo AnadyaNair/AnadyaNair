@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/AnadyaNair/AnadyaNair/blob/46c7e7da91fcc7ccfabad3270e9d6ac793a987e6/AnadyaNair%20%20Twitter%20Banner.png"></img> -->
-# Hello!
-Greetings! I am Anadya Nair. A student and a developer, (he/him). My nationality is Indian. I am a young developer, currently practicing  hands upon web development, UI designing, backend, and automation. As well as I am the owner and I manage a GitHub organization called the Developer Capsule.
+# Hello, I'm Anadya.
+A student and a developer, (he/him). My nationality is Indian. I am a young developer, currently practicing  hands upon web development, UI designing, backend, and automation. As well as I am the owner and I manage a GitHub organization called the Developer Capsule.
 <br><br>
 Get to know more on my personal [portfolio](https://anadyanair.github.io) & and join me on [Twitter](https://twitter.com/AnadyaNair) with other developers worldwide!
 <br><br>
