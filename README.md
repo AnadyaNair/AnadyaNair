@@ -41,9 +41,6 @@ Get to know more on my personal [portfolio](https://anadyanair.github.io) & and 
   
 - ### [Learning Web Backbone](https://github.com/AnadyaNair/Learning-Web-Backbone)
   An open source attempt to help people learn HTML using a guide GitHub repository.
-  
-- ### [React RMNJ](https://github.com/AnadyaNair/React-RMNJ)
-  An open source calculator which uses React JS and computes calculations within files without using any other library.
 
 ## Snake Graph (Animated)
 This is a snake graph which I generated using [GitHub Actions](https://github.com/features/actions). It gets updated automatically in the due time, with my commits!
