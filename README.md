@@ -46,4 +46,4 @@ Get to know more on my personal [portfolio](https://anadyanair.github.io) & and 
 This is a snake graph which I generated using [GitHub Actions](https://github.com/features/actions). It gets updated automatically in the due time, with my commits!
 <img src="https://github.com/AnadyaNair/AnadyaNair/raw/output/github-contribution-grid-snake.svg"></img>
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=AnadyaNair&left_color=blue&left_text=Total%20Visitors&right_color=#0096c7'></p>
+<!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=AnadyaNair&left_color=blue&left_text=Total%20Visitors&right_color=#0096c7'></p> -->
