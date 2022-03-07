@@ -4,7 +4,8 @@
 ## Regarding Me
 A student and a developer, (he/him). My nationality is Indian. I am a young developer, currently practicing  hands upon web development, UI designing, backend, and automation. As well as I am the owner and I manage a GitHub organization called the Developer Capsule. 
 
-Get to know more on my personal [portfolio](https://anadyanair.github.io) & and join me on [Twitter](https://twitter.com/AnadyaNair) with other developers worldwide!
+Get to know more on my personal [portfolio](https://anadyanair.github.io) & and join me on [Twitter](https://twitter.com/AnadyaNair) with other developers worldwide.
+You can also read my [blogs](https://anadyanair.notion.site/Scrap-Log-c85962130fe64830bc2c5041f4270c20)!
 <img src="https://github.com/AnadyaNair/AnadyaNair/raw/output/github-contribution-grid-snake.svg"></img>
 
 
